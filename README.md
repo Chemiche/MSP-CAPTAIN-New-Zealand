@@ -1,7 +1,7 @@
 # MSP-CAPTAIN-New-Zealand
 
 Conservation Prioritization Through Artificial Intelligence
-The CAPTAIN method is described in [this paper](https://www.nature.com/articles/s41893-022-00851-6) and released under this license.
+The CAPTAIN method is described in [this paper](https://www.nature.com/articles/s41893-022-00851-6) and released under this license. Changes were made to suit data for New Zealand and can be found [here] (). 
 
 
 License
